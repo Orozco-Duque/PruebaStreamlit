@@ -1,0 +1,10 @@
+dash==3.0.3
+dash==3.0.4
+dash_bootstrap_components==2.0.2
+matplotlib==3.10.3
+pandas==2.2.3
+plotly==5.24.1
+plotly==6.0.1
+streamlit==1.44.1
+streamlit==1.37.1
+streamlit==1.45.0
